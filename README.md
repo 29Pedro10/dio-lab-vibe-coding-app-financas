@@ -73,12 +73,12 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD simplificado);  
+- Seu **prompt final** (PRD);  
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?  
-  - O que você mudaria no prompt?  
+  - O que não funcionou como o esperado?  
   - O que aprendeu sobre conversar com IAs?
 
 > [!TIP]
